@@ -3,8 +3,8 @@ import React from "react";
 function Welcome(props){
     return(
         <>  
-            <span>Hey !</span>
-            <h1>{props.name}</h1>
+            
+            <h1>Hey!{props.name}</h1>
             <h2>Welcome to Newton School</h2>
         </>
     )
