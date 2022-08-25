@@ -7,7 +7,7 @@ const App = () => {
     <Welcome 
     name="Amir" 
     // message="Welcome to Newton School"
-    greeting="Hey !"
+    // greeting="Hey !"
 
     />
   )
