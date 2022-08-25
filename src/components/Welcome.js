@@ -1,9 +1,9 @@
 // write code for Welcome component here
 import React from "react";
-function Welcome(props){
+function Welcome(greeting,props){
     return(
         <>
-            <h1>{props.greeting}{props.name}</h1>
+            <h1>{greeting}{props.name}</h1>
             <h2>Welcome to Newton School</h2>
         </>
     )
