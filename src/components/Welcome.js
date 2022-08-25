@@ -2,8 +2,8 @@
 function Welcome(props){
     return(
         <>
-            <h1>{props.message} {props.name}</h1>
-            <h2>{props.greeting}</h2>
+            <h1>{props.greeting} {props.name}</h1>
+            <h2>{props.message}</h2>
         </>
     )
 }
