@@ -6,8 +6,8 @@ const App = () => {
   return (
     <Welcome 
     name="Amir" 
-    message="Welcome to Newton School"
-    greeting="Hey !"
+    // message="Welcome to Newton School"
+    // greeting="Hey !"
 
     />
   )
