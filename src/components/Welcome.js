@@ -1,4 +1,5 @@
 // write code for Welcome component here
+import React from "react";
 function Welcome(greeting, message){
     return(
         <>
