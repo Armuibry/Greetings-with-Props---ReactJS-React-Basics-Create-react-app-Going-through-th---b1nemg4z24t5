@@ -8,6 +8,8 @@ const App = () => {
     name="Amir" 
     // message="Welcome to Newton School"
     // greeting="Hey !"
+    
+    <h2>Welcome to Newton School<h2/>
 
     />
   )
