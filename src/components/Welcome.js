@@ -2,10 +2,10 @@
 import React from "react";
 function Welcome(props){
     return(  
-            <>
+            <section>
             <h1>{props.greeting}{props.name}</h1>
             <h2>Welcome to Newton School</h2>
-            </>
+            <section/>
             
 
             
